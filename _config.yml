@@ -1,5 +1,7 @@
-layout_spectrum: 0.9361702
 name: Jenn Frost
+favicon: null
+layout_spectrum: 0.9361702
+typography_spectrum: 0.7106383
 collections:
   - index:
       navigable: true
@@ -12,15 +14,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.4202555
-  lightness: 0.1235891
-  saturation: 0.4962502
-  rhythmicContrast: 0.0925059
   brandColors:
-    - '#010000'
-    - '#CE9441'
-    - '#423928'
-    - '#D1AA89'
-    - '#8A867D'
-typography_spectrum: 0.7106383
+    - '#000000'
+    - '#cc953e'
+    - '#291900'
+    - '#67583a'
+    - '#856d42'
+  brandStrength: 0.375
+  lightness: 0.5625
+  saturation: 0.6875
+  rhythmicContrast: 0.5
+purpose: []
